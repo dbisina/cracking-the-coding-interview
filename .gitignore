@@ -1,0 +1,10 @@
+# The book is copyrighted: never commit it or text extracted from it
+*.pdf
+tools/.cache/
+
+# Learner's personal work (remove these lines if you want to version your own solutions)
+workspace/*
+!workspace/README.md
+
+__pycache__/
+.pytest_cache/

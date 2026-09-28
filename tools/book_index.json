@@ -1,0 +1,3129 @@
+{
+ "_note": "All page numbers are PDF page numbers (1-based). Printed book page = PDF page - 12.",
+ "problems": {
+  "1.1": {
+   "title": "Is Unique",
+   "question_page": 102,
+   "solution_page": 204,
+   "hints": [
+    44,
+    117,
+    132
+   ],
+   "solution_end": 205
+  },
+  "1.2": {
+   "title": "Check Permutation",
+   "question_page": 102,
+   "solution_page": 205,
+   "hints": [
+    1,
+    84,
+    122
+   ],
+   "solution_end": 206
+  },
+  "1.3": {
+   "title": "URLify",
+   "question_page": 102,
+   "solution_page": 206,
+   "hints": [
+    53,
+    118
+   ],
+   "solution_end": 207
+  },
+  "1.4": {
+   "title": "Palindrome Permutation",
+   "question_page": 103,
+   "solution_page": 207,
+   "hints": [
+    106,
+    121,
+    134,
+    136
+   ],
+   "solution_end": 211
+  },
+  "1.5": {
+   "title": "One Away",
+   "question_page": 103,
+   "solution_page": 211,
+   "hints": [
+    23,
+    97,
+    130
+   ],
+   "solution_end": 213
+  },
+  "1.6": {
+   "title": "String Compression",
+   "question_page": 103,
+   "solution_page": 213,
+   "hints": [
+    92,
+    110
+   ],
+   "solution_end": 215
+  },
+  "1.7": {
+   "title": "Rotate Matrix",
+   "question_page": 103,
+   "solution_page": 215,
+   "hints": [
+    51,
+    100
+   ],
+   "solution_end": 216
+  },
+  "1.8": {
+   "title": "Zero Matrix",
+   "question_page": 103,
+   "solution_page": 216,
+   "hints": [
+    17,
+    74,
+    102
+   ],
+   "solution_end": 218
+  },
+  "1.9": {
+   "title": "String Rotation",
+   "question_page": 103,
+   "solution_page": 218,
+   "hints": [
+    34,
+    88,
+    104
+   ],
+   "solution_end": 220
+  },
+  "2.1": {
+   "title": "Remove Dups",
+   "question_page": 106,
+   "solution_page": 220,
+   "hints": [
+    9,
+    40
+   ],
+   "solution_end": 221
+  },
+  "2.2": {
+   "title": "Return Kth to Last",
+   "question_page": 106,
+   "solution_page": 221,
+   "hints": [
+    8,
+    25,
+    41,
+    67,
+    126
+   ],
+   "solution_end": 223
+  },
+  "2.3": {
+   "title": "Delete Middle Node",
+   "question_page": 106,
+   "solution_page": 223,
+   "hints": [
+    72
+   ],
+   "solution_end": 224
+  },
+  "2.4": {
+   "title": "Partition",
+   "question_page": 106,
+   "solution_page": 224,
+   "hints": [
+    3,
+    24
+   ],
+   "solution_end": 226
+  },
+  "2.5": {
+   "title": "Sum Lists",
+   "question_page": 107,
+   "solution_page": 226,
+   "hints": [
+    7,
+    30,
+    71,
+    95
+   ],
+   "solution_end": 228
+  },
+  "2.6": {
+   "title": "Palindrome",
+   "question_page": 107,
+   "solution_page": 228,
+   "hints": [
+    5,
+    13,
+    29,
+    61,
+    101
+   ],
+   "solution_end": 233
+  },
+  "2.7": {
+   "title": "Intersection",
+   "question_page": 107,
+   "solution_page": 233,
+   "hints": [
+    20,
+    45,
+    55,
+    65,
+    76,
+    93,
+    111,
+    120,
+    129
+   ],
+   "solution_end": 235
+  },
+  "2.8": {
+   "title": "Loop Detection",
+   "question_page": 107,
+   "solution_page": 235,
+   "hints": [
+    50,
+    69,
+    83,
+    90
+   ],
+   "solution_end": 239
+  },
+  "3.1": {
+   "title": "Three in One",
+   "question_page": 110,
+   "solution_page": 239,
+   "hints": [
+    2,
+    12,
+    38,
+    58
+   ],
+   "solution_end": 244
+  },
+  "3.2": {
+   "title": "Stack Min",
+   "question_page": 110,
+   "solution_page": 244,
+   "hints": [
+    27,
+    59,
+    78
+   ],
+   "solution_end": 245
+  },
+  "3.3": {
+   "title": "Stack of Plates",
+   "question_page": 111,
+   "solution_page": 245,
+   "hints": [
+    64,
+    81
+   ],
+   "solution_end": 248
+  },
+  "3.4": {
+   "title": "Queue via Stacks",
+   "question_page": 111,
+   "solution_page": 248,
+   "hints": [
+    98,
+    114
+   ],
+   "solution_end": 249
+  },
+  "3.5": {
+   "title": "Sort Stack",
+   "question_page": 111,
+   "solution_page": 249,
+   "hints": [
+    15,
+    32,
+    43
+   ],
+   "solution_end": 251
+  },
+  "3.6": {
+   "title": "Animal Shelter",
+   "question_page": 111,
+   "solution_page": 251,
+   "hints": [
+    22,
+    56,
+    63
+   ],
+   "solution_end": 253
+  },
+  "4.1": {
+   "title": "Route Between Nodes",
+   "question_page": 121,
+   "solution_page": 253,
+   "hints": [
+    127
+   ],
+   "solution_end": 254
+  },
+  "4.2": {
+   "title": "Minimal Tree",
+   "question_page": 121,
+   "solution_page": 254,
+   "hints": [
+    19,
+    73,
+    116
+   ],
+   "solution_end": 255
+  },
+  "4.3": {
+   "title": "List of Depths",
+   "question_page": 121,
+   "solution_page": 255,
+   "hints": [
+    107,
+    123,
+    135
+   ],
+   "solution_end": 256
+  },
+  "4.4": {
+   "title": "Check Balanced",
+   "question_page": 122,
+   "solution_page": 256,
+   "hints": [
+    21,
+    33,
+    49,
+    105,
+    124
+   ],
+   "solution_end": 257
+  },
+  "4.5": {
+   "title": "Validate BST",
+   "question_page": 122,
+   "solution_page": 257,
+   "hints": [
+    35,
+    57,
+    86,
+    128
+   ],
+   "solution_end": 260
+  },
+  "4.6": {
+   "title": "Successor",
+   "question_page": 122,
+   "solution_page": 260,
+   "hints": [
+    79,
+    91
+   ],
+   "solution_end": 262
+  },
+  "4.7": {
+   "title": "Build Order",
+   "question_page": 122,
+   "solution_page": 262,
+   "hints": [
+    26,
+    47,
+    60,
+    85,
+    125,
+    133
+   ],
+   "solution_end": 269
+  },
+  "4.8": {
+   "title": "First Common Ancestor",
+   "question_page": 122,
+   "solution_page": 269,
+   "hints": [
+    10,
+    16,
+    28,
+    36,
+    46,
+    70,
+    80,
+    96
+   ],
+   "solution_end": 274
+  },
+  "4.9": {
+   "title": "BST Sequences",
+   "question_page": 122,
+   "solution_page": 274,
+   "hints": [
+    39,
+    48,
+    66,
+    82
+   ],
+   "solution_end": 277
+  },
+  "4.10": {
+   "title": "Check Subtree",
+   "question_page": 123,
+   "solution_page": 277,
+   "hints": [
+    4,
+    11,
+    18,
+    31,
+    37
+   ],
+   "solution_end": 280
+  },
+  "4.11": {
+   "title": "Random Node",
+   "question_page": 123,
+   "solution_page": 280,
+   "hints": [
+    42,
+    54,
+    62,
+    75,
+    89,
+    99,
+    112,
+    119
+   ],
+   "solution_end": 284
+  },
+  "4.12": {
+   "title": "Paths with Sum",
+   "question_page": 123,
+   "solution_page": 284,
+   "hints": [
+    6,
+    14,
+    52,
+    68,
+    77,
+    87,
+    94,
+    103,
+    108,
+    115
+   ],
+   "solution_end": 288
+  },
+  "5.1": {
+   "title": "Insertion",
+   "question_page": 127,
+   "solution_page": 288,
+   "hints": [
+    137,
+    169,
+    215
+   ],
+   "solution_end": 289
+  },
+  "5.2": {
+   "title": "Binary to String",
+   "question_page": 128,
+   "solution_page": 289,
+   "hints": [
+    143,
+    167,
+    173,
+    269,
+    297
+   ],
+   "solution_end": 290
+  },
+  "5.3": {
+   "title": "Flip Bit to Win",
+   "question_page": 128,
+   "solution_page": 290,
+   "hints": [
+    159,
+    226,
+    314,
+    352
+   ],
+   "solution_end": 292
+  },
+  "5.4": {
+   "title": "Next Number",
+   "question_page": 128,
+   "solution_page": 292,
+   "hints": [
+    147,
+    175,
+    242,
+    312,
+    339,
+    358,
+    375,
+    390
+   ],
+   "solution_end": 297
+  },
+  "5.5": {
+   "title": "Debugger",
+   "question_page": 128,
+   "solution_page": 297,
+   "hints": [
+    151,
+    202,
+    261,
+    302,
+    346,
+    372,
+    383,
+    398
+   ],
+   "solution_end": 298
+  },
+  "5.6": {
+   "title": "Conversion",
+   "question_page": 128,
+   "solution_page": 298,
+   "hints": [
+    336,
+    369
+   ],
+   "solution_end": 298
+  },
+  "5.7": {
+   "title": "Pairwise Swap",
+   "question_page": 128,
+   "solution_page": 298,
+   "hints": [
+    145,
+    248,
+    328,
+    355
+   ],
+   "solution_end": 299
+  },
+  "5.8": {
+   "title": "Draw Line",
+   "question_page": 128,
+   "solution_page": 299,
+   "hints": [
+    366,
+    381,
+    384,
+    391
+   ],
+   "solution_end": 301
+  },
+  "6.1": {
+   "title": "The Heavy Pill",
+   "question_page": 134,
+   "solution_page": 301,
+   "hints": [
+    186,
+    252,
+    319,
+    387
+   ],
+   "solution_end": 302
+  },
+  "6.2": {
+   "title": "Basketball",
+   "question_page": 135,
+   "solution_page": 302,
+   "hints": [
+    181,
+    239,
+    284,
+    323
+   ],
+   "solution_end": 303
+  },
+  "6.3": {
+   "title": "Dominos",
+   "question_page": 135,
+   "solution_page": 303,
+   "hints": [
+    367,
+    397
+   ],
+   "solution_end": 303
+  },
+  "6.4": {
+   "title": "Ants on a Triangle",
+   "question_page": 135,
+   "solution_page": 303,
+   "hints": [
+    157,
+    195,
+    296
+   ],
+   "solution_end": 304
+  },
+  "6.5": {
+   "title": "Jugs of Water",
+   "question_page": 135,
+   "solution_page": 304,
+   "hints": [
+    149,
+    379,
+    400
+   ],
+   "solution_end": 305
+  },
+  "6.6": {
+   "title": "Blue-Eyed Island",
+   "question_page": 135,
+   "solution_page": 305,
+   "hints": [
+    218,
+    282,
+    341,
+    370
+   ],
+   "solution_end": 305
+  },
+  "6.7": {
+   "title": "The Apocalypse",
+   "question_page": 135,
+   "solution_page": 305,
+   "hints": [
+    154,
+    160,
+    171,
+    188,
+    201
+   ],
+   "solution_end": 308
+  },
+  "6.8": {
+   "title": "The Egg Drop Problem",
+   "question_page": 136,
+   "solution_page": 308,
+   "hints": [
+    156,
+    233,
+    294,
+    333,
+    357,
+    374,
+    395
+   ],
+   "solution_end": 309
+  },
+  "6.9": {
+   "title": "100 Lockers",
+   "question_page": 136,
+   "solution_page": 309,
+   "hints": [
+    139,
+    172,
+    264,
+    306
+   ],
+   "solution_end": 310
+  },
+  "6.10": {
+   "title": "Poison",
+   "question_page": 136,
+   "solution_page": 310,
+   "hints": [
+    146,
+    163,
+    183,
+    191,
+    205,
+    221,
+    230,
+    241,
+    249
+   ],
+   "solution_end": 317
+  },
+  "7.1": {
+   "title": "Deck of Cards",
+   "question_page": 139,
+   "solution_page": 317,
+   "hints": [
+    153,
+    275
+   ],
+   "solution_end": 319
+  },
+  "7.2": {
+   "title": "Call Center",
+   "question_page": 139,
+   "solution_page": 319,
+   "hints": [
+    363
+   ],
+   "solution_end": 322
+  },
+  "7.3": {
+   "title": "Jukebox",
+   "question_page": 139,
+   "solution_page": 322,
+   "hints": [
+    198
+   ],
+   "solution_end": 324
+  },
+  "7.4": {
+   "title": "Parking Lot",
+   "question_page": 139,
+   "solution_page": 324,
+   "hints": [
+    258
+   ],
+   "solution_end": 327
+  },
+  "7.5": {
+   "title": "Online Book Reader",
+   "question_page": 139,
+   "solution_page": 327,
+   "hints": [
+    344
+   ],
+   "solution_end": 330
+  },
+  "7.6": {
+   "title": "Jigsaw",
+   "question_page": 140,
+   "solution_page": 330,
+   "hints": [
+    192,
+    238,
+    283
+   ],
+   "solution_end": 334
+  },
+  "7.7": {
+   "title": "Chat Server",
+   "question_page": 140,
+   "solution_page": 334,
+   "hints": [
+    213,
+    245,
+    271
+   ],
+   "solution_end": 338
+  },
+  "7.8": {
+   "title": "Othello",
+   "question_page": 140,
+   "solution_page": 338,
+   "hints": [
+    179,
+    228
+   ],
+   "solution_end": 341
+  },
+  "7.9": {
+   "title": "Circular Array",
+   "question_page": 140,
+   "solution_page": 341,
+   "hints": [
+    389
+   ],
+   "solution_end": 344
+  },
+  "7.10": {
+   "title": "Minesweeper",
+   "question_page": 141,
+   "solution_page": 344,
+   "hints": [
+    351,
+    361,
+    377,
+    386,
+    399
+   ],
+   "solution_end": 349
+  },
+  "7.11": {
+   "title": "File System",
+   "question_page": 141,
+   "solution_page": 349,
+   "hints": [
+    141,
+    216
+   ],
+   "solution_end": 351
+  },
+  "7.12": {
+   "title": "Hash Table",
+   "question_page": 141,
+   "solution_page": 351,
+   "hints": [
+    287,
+    307
+   ],
+   "solution_end": 354
+  },
+  "8.1": {
+   "title": "Triple Step",
+   "question_page": 146,
+   "solution_page": 354,
+   "hints": [
+    152,
+    178,
+    217,
+    237,
+    262,
+    359
+   ],
+   "solution_end": 356
+  },
+  "8.2": {
+   "title": "Robot in a Grid",
+   "question_page": 147,
+   "solution_page": 356,
+   "hints": [
+    331,
+    360,
+    388
+   ],
+   "solution_end": 358
+  },
+  "8.3": {
+   "title": "Magic Index",
+   "question_page": 147,
+   "solution_page": 358,
+   "hints": [
+    170,
+    204,
+    240,
+    286,
+    340
+   ],
+   "solution_end": 360
+  },
+  "8.4": {
+   "title": "Power Set",
+   "question_page": 147,
+   "solution_page": 360,
+   "hints": [
+    273,
+    290,
+    338,
+    354,
+    373
+   ],
+   "solution_end": 362
+  },
+  "8.5": {
+   "title": "Recursive Multiply",
+   "question_page": 147,
+   "solution_page": 362,
+   "hints": [
+    166,
+    203,
+    227,
+    234,
+    246,
+    280
+   ],
+   "solution_end": 365
+  },
+  "8.6": {
+   "title": "Towers of Hanoi",
+   "question_page": 147,
+   "solution_page": 365,
+   "hints": [
+    144,
+    224,
+    250,
+    272,
+    318
+   ],
+   "solution_end": 367
+  },
+  "8.7": {
+   "title": "Permutations without Dups",
+   "question_page": 147,
+   "solution_page": 367,
+   "hints": [
+    150,
+    185,
+    200,
+    267,
+    278,
+    309,
+    335,
+    356
+   ],
+   "solution_end": 369
+  },
+  "8.8": {
+   "title": "Permutations with Dups",
+   "question_page": 147,
+   "solution_page": 369,
+   "hints": [
+    161,
+    190,
+    222,
+    255
+   ],
+   "solution_end": 371
+  },
+  "8.9": {
+   "title": "Parens",
+   "question_page": 148,
+   "solution_page": 371,
+   "hints": [
+    138,
+    174,
+    187,
+    209,
+    243,
+    265,
+    295
+   ],
+   "solution_end": 373
+  },
+  "8.10": {
+   "title": "Paint Fill",
+   "question_page": 148,
+   "solution_page": 373,
+   "hints": [
+    364,
+    382
+   ],
+   "solution_end": 374
+  },
+  "8.11": {
+   "title": "Coins",
+   "question_page": 148,
+   "solution_page": 374,
+   "hints": [
+    300,
+    324,
+    343,
+    380,
+    394
+   ],
+   "solution_end": 376
+  },
+  "8.12": {
+   "title": "Eight Queens",
+   "question_page": 148,
+   "solution_page": 376,
+   "hints": [
+    308,
+    350,
+    371
+   ],
+   "solution_end": 378
+  },
+  "8.13": {
+   "title": "Stack of Boxes",
+   "question_page": 148,
+   "solution_page": 378,
+   "hints": [
+    155,
+    194,
+    214,
+    260,
+    322,
+    368,
+    378
+   ],
+   "solution_end": 380
+  },
+  "8.14": {
+   "title": "Boolean Evaluation",
+   "question_page": 148,
+   "solution_page": 380,
+   "hints": [
+    148,
+    168,
+    197,
+    305,
+    327
+   ],
+   "solution_end": 384
+  },
+  "9.1": {
+   "title": "Stock Data",
+   "question_page": 156,
+   "solution_page": 384,
+   "hints": [
+    385,
+    396
+   ],
+   "solution_end": 386
+  },
+  "9.2": {
+   "title": "Social Network",
+   "question_page": 157,
+   "solution_page": 386,
+   "hints": [
+    270,
+    285,
+    304,
+    321
+   ],
+   "solution_end": 390
+  },
+  "9.3": {
+   "title": "Web Crawler",
+   "question_page": 157,
+   "solution_page": 390,
+   "hints": [
+    334,
+    353,
+    365
+   ],
+   "solution_end": 392
+  },
+  "9.4": {
+   "title": "Duplicate URLs",
+   "question_page": 157,
+   "solution_page": 392,
+   "hints": [
+    326,
+    347
+   ],
+   "solution_end": 393
+  },
+  "9.5": {
+   "title": "Cache",
+   "question_page": 157,
+   "solution_page": 393,
+   "hints": [
+    259,
+    274,
+    293,
+    311
+   ],
+   "solution_end": 397
+  },
+  "9.6": {
+   "title": "Sales Rank",
+   "question_page": 157,
+   "solution_page": 397,
+   "hints": [
+    142,
+    158,
+    176,
+    189,
+    208,
+    223,
+    236,
+    244
+   ],
+   "solution_end": 400
+  },
+  "9.7": {
+   "title": "Personal Financial Manager",
+   "question_page": 157,
+   "solution_page": 400,
+   "hints": [
+    162,
+    180,
+    199,
+    212,
+    247,
+    276
+   ],
+   "solution_end": 404
+  },
+  "9.8": {
+   "title": "Pastebin",
+   "question_page": 157,
+   "solution_page": 404,
+   "hints": [
+    165,
+    184,
+    206,
+    232
+   ],
+   "solution_end": 408
+  },
+  "10.1": {
+   "title": "Sorted Merge",
+   "question_page": 161,
+   "solution_page": 408,
+   "hints": [
+    332
+   ],
+   "solution_end": 409
+  },
+  "10.2": {
+   "title": "Group Anagrams",
+   "question_page": 162,
+   "solution_page": 409,
+   "hints": [
+    177,
+    182,
+    263,
+    342
+   ],
+   "solution_end": 410
+  },
+  "10.3": {
+   "title": "Search in Rotated Array",
+   "question_page": 162,
+   "solution_page": 410,
+   "hints": [
+    298,
+    310
+   ],
+   "solution_end": 412
+  },
+  "10.4": {
+   "title": "Sorted Search, No Size",
+   "question_page": 162,
+   "solution_page": 412,
+   "hints": [
+    320,
+    337,
+    348
+   ],
+   "solution_end": 413
+  },
+  "10.5": {
+   "title": "Sparse Search",
+   "question_page": 162,
+   "solution_page": 413,
+   "hints": [
+    256
+   ],
+   "solution_end": 414
+  },
+  "10.6": {
+   "title": "Sort Big File",
+   "question_page": 162,
+   "solution_page": 414,
+   "hints": [
+    207
+   ],
+   "solution_end": 415
+  },
+  "10.7": {
+   "title": "Missing Int",
+   "question_page": 162,
+   "solution_page": 415,
+   "hints": [
+    235,
+    254,
+    281
+   ],
+   "solution_end": 418
+  },
+  "10.8": {
+   "title": "Find Duplicates",
+   "question_page": 163,
+   "solution_page": 418,
+   "hints": [
+    289,
+    315
+   ],
+   "solution_end": 419
+  },
+  "10.9": {
+   "title": "Sorted Matrix Search",
+   "question_page": 163,
+   "solution_page": 419,
+   "hints": [
+    193,
+    211,
+    229,
+    251,
+    266,
+    279,
+    288,
+    291,
+    303,
+    317,
+    330
+   ],
+   "solution_end": 424
+  },
+  "10.10": {
+   "title": "Rank from Stream",
+   "question_page": 163,
+   "solution_page": 424,
+   "hints": [
+    301,
+    376,
+    392
+   ],
+   "solution_end": 426
+  },
+  "10.11": {
+   "title": "Peaks and Valleys",
+   "question_page": 163,
+   "solution_page": 426,
+   "hints": [
+    196,
+    219,
+    231,
+    253,
+    277,
+    292,
+    316
+   ],
+   "solution_end": 429
+  },
+  "11.1": {
+   "title": "Mistake",
+   "question_page": 169,
+   "solution_page": 429,
+   "hints": [
+    257,
+    299,
+    362
+   ],
+   "solution_end": 429
+  },
+  "11.2": {
+   "title": "Random Crashes",
+   "question_page": 169,
+   "solution_page": 429,
+   "hints": [
+    325
+   ],
+   "solution_end": 430
+  },
+  "11.3": {
+   "title": "Chess Test",
+   "question_page": 169,
+   "solution_page": 430,
+   "hints": [
+    329,
+    401
+   ],
+   "solution_end": 431
+  },
+  "11.4": {
+   "title": "No Test Tools",
+   "question_page": 169,
+   "solution_page": 431,
+   "hints": [
+    313,
+    345
+   ],
+   "solution_end": 432
+  },
+  "11.5": {
+   "title": "Test a Pen",
+   "question_page": 169,
+   "solution_page": 432,
+   "hints": [
+    140,
+    164,
+    220
+   ],
+   "solution_end": 433
+  },
+  "11.6": {
+   "title": "Test an ATM",
+   "question_page": 169,
+   "solution_page": 433,
+   "hints": [
+    210,
+    225,
+    268,
+    349,
+    393
+   ],
+   "solution_end": 434
+  },
+  "12.1": {
+   "title": "Last K Lines",
+   "question_page": 175,
+   "solution_page": 434,
+   "hints": [
+    449,
+    459
+   ],
+   "solution_end": 435
+  },
+  "12.2": {
+   "title": "Reverse String",
+   "question_page": 175,
+   "solution_page": 435,
+   "hints": [
+    410,
+    452
+   ],
+   "solution_end": 435
+  },
+  "12.3": {
+   "title": "Hash Table vs. STL Map",
+   "question_page": 175,
+   "solution_page": 435,
+   "hints": [
+    423
+   ],
+   "solution_end": 436
+  },
+  "12.4": {
+   "title": "Virtual Functions",
+   "question_page": 176,
+   "solution_page": 436,
+   "hints": [
+    463
+   ],
+   "solution_end": 437
+  },
+  "12.5": {
+   "title": "Shallow vs. Deep Copy",
+   "question_page": 176,
+   "solution_page": 437,
+   "hints": [
+    445
+   ],
+   "solution_end": 438
+  },
+  "12.6": {
+   "title": "Volatile",
+   "question_page": 176,
+   "solution_page": 438,
+   "hints": [
+    456
+   ],
+   "solution_end": 439
+  },
+  "12.7": {
+   "title": "Virtual Base Class",
+   "question_page": 176,
+   "solution_page": 439,
+   "hints": [
+    421,
+    460
+   ],
+   "solution_end": 439
+  },
+  "12.8": {
+   "title": "Copy Node",
+   "question_page": 176,
+   "solution_page": 439,
+   "hints": [
+    427,
+    462
+   ],
+   "solution_end": 440
+  },
+  "12.9": {
+   "title": "Smart Pointer",
+   "question_page": 176,
+   "solution_page": 440,
+   "hints": [
+    402,
+    438,
+    453
+   ],
+   "solution_end": 442
+  },
+  "12.10": {
+   "title": "Malloc",
+   "question_page": 176,
+   "solution_page": 442,
+   "hints": [
+    413,
+    432,
+    440
+   ],
+   "solution_end": 443
+  },
+  "12.11": {
+   "title": "2D Alloc",
+   "question_page": 176,
+   "solution_page": 443,
+   "hints": [
+    406,
+    418,
+    426
+   ],
+   "solution_end": 445
+  },
+  "13.1": {
+   "title": "Private Constructor",
+   "question_page": 179,
+   "solution_page": 445,
+   "hints": [
+    404
+   ],
+   "solution_end": 445
+  },
+  "13.2": {
+   "title": "Return from Finally",
+   "question_page": 179,
+   "solution_page": 445,
+   "hints": [
+    409
+   ],
+   "solution_end": 445
+  },
+  "13.3": {
+   "title": "Final, etc.",
+   "question_page": 179,
+   "solution_page": 445,
+   "hints": [
+    412
+   ],
+   "solution_end": 447
+  },
+  "13.4": {
+   "title": "Generics vs. Templates",
+   "question_page": 179,
+   "solution_page": 447,
+   "hints": [
+    416,
+    425
+   ],
+   "solution_end": 448
+  },
+  "13.5": {
+   "title": "TreeMap, HashMap, LinkedHashMap",
+   "question_page": 179,
+   "solution_page": 448,
+   "hints": [
+    420,
+    424,
+    430,
+    454
+   ],
+   "solution_end": 449
+  },
+  "13.6": {
+   "title": "Object Reflection",
+   "question_page": 180,
+   "solution_page": 449,
+   "hints": [
+    435
+   ],
+   "solution_end": 450
+  },
+  "13.7": {
+   "title": "Lambda Expressions",
+   "question_page": 180,
+   "solution_page": 450,
+   "hints": [
+    448,
+    461,
+    464
+   ],
+   "solution_end": 451
+  },
+  "13.8": {
+   "title": "Lambda Random",
+   "question_page": 180,
+   "solution_page": 451,
+   "hints": [
+    443,
+    450,
+    457
+   ],
+   "solution_end": 453
+  },
+  "14.1": {
+   "title": "Multiple Apartments",
+   "question_page": 184,
+   "solution_page": 453,
+   "hints": [
+    408
+   ],
+   "solution_end": 454
+  },
+  "14.2": {
+   "title": "Open Requests",
+   "question_page": 185,
+   "solution_page": 454,
+   "hints": [
+    411
+   ],
+   "solution_end": 454
+  },
+  "14.3": {
+   "title": "Close All Requests",
+   "question_page": 185,
+   "solution_page": 454,
+   "hints": [
+    431
+   ],
+   "solution_end": 454
+  },
+  "14.4": {
+   "title": "Joins",
+   "question_page": 185,
+   "solution_page": 454,
+   "hints": [
+    451
+   ],
+   "solution_end": 455
+  },
+  "14.5": {
+   "title": "Denormalization",
+   "question_page": 185,
+   "solution_page": 455,
+   "hints": [
+    444,
+    455
+   ],
+   "solution_end": 456
+  },
+  "14.6": {
+   "title": "Entity-Relationship Diagram",
+   "question_page": 185,
+   "solution_page": 456,
+   "hints": [
+    436
+   ],
+   "solution_end": 457
+  },
+  "14.7": {
+   "title": "Design Grade Database",
+   "question_page": 185,
+   "solution_page": 457,
+   "hints": [
+    428,
+    442
+   ],
+   "solution_end": 459
+  },
+  "15.1": {
+   "title": "Thread vs. Process",
+   "question_page": 191,
+   "solution_page": 459,
+   "hints": [
+    405
+   ],
+   "solution_end": 459
+  },
+  "15.2": {
+   "title": "Context Switch",
+   "question_page": 191,
+   "solution_page": 459,
+   "hints": [
+    403,
+    407,
+    415,
+    441
+   ],
+   "solution_end": 461
+  },
+  "15.3": {
+   "title": "Dining Philosophers",
+   "question_page": 192,
+   "solution_page": 461,
+   "hints": [
+    419,
+    437
+   ],
+   "solution_end": 464
+  },
+  "15.4": {
+   "title": "Deadlock-Free Class",
+   "question_page": 192,
+   "solution_page": 464,
+   "hints": [
+    422,
+    434
+   ],
+   "solution_end": 468
+  },
+  "15.5": {
+   "title": "Call In Order",
+   "question_page": 192,
+   "solution_page": 468,
+   "hints": [
+    417,
+    433,
+    446
+   ],
+   "solution_end": 470
+  },
+  "15.6": {
+   "title": "Synchronized Methods",
+   "question_page": 192,
+   "solution_page": 470,
+   "hints": [
+    429
+   ],
+   "solution_end": 470
+  },
+  "15.7": {
+   "title": "FizzBuzz",
+   "question_page": 192,
+   "solution_page": 470,
+   "hints": [
+    414,
+    439,
+    447,
+    458
+   ],
+   "solution_end": 474
+  },
+  "16.1": {
+   "title": "Number Swapper",
+   "question_page": 193,
+   "solution_page": 474,
+   "hints": [
+    492,
+    716,
+    737
+   ],
+   "solution_end": 475
+  },
+  "16.2": {
+   "title": "Word Frequencies",
+   "question_page": 193,
+   "solution_page": 475,
+   "hints": [
+    489,
+    536
+   ],
+   "solution_end": 476
+  },
+  "16.3": {
+   "title": "Intersection",
+   "question_page": 193,
+   "solution_page": 476,
+   "hints": [
+    465,
+    472,
+    497,
+    517,
+    527
+   ],
+   "solution_end": 478
+  },
+  "16.4": {
+   "title": "Tic Tac Win",
+   "question_page": 193,
+   "solution_page": 478,
+   "hints": [
+    710,
+    732
+   ],
+   "solution_end": 485
+  },
+  "16.5": {
+   "title": "Factorial Zeros",
+   "question_page": 193,
+   "solution_page": 485,
+   "hints": [
+    585,
+    711,
+    729,
+    733,
+    745
+   ],
+   "solution_end": 486
+  },
+  "16.6": {
+   "title": "Smallest Difference",
+   "question_page": 193,
+   "solution_page": 486,
+   "hints": [
+    632,
+    670,
+    679
+   ],
+   "solution_end": 487
+  },
+  "16.7": {
+   "title": "Number Max",
+   "question_page": 193,
+   "solution_page": 487,
+   "hints": [
+    473,
+    513,
+    707,
+    728
+   ],
+   "solution_end": 489
+  },
+  "16.8": {
+   "title": "English Int",
+   "question_page": 194,
+   "solution_page": 489,
+   "hints": [
+    502,
+    588,
+    688
+   ],
+   "solution_end": 490
+  },
+  "16.9": {
+   "title": "Operations",
+   "question_page": 194,
+   "solution_page": 490,
+   "hints": [
+    572,
+    600,
+    613,
+    648
+   ],
+   "solution_end": 494
+  },
+  "16.10": {
+   "title": "Living People",
+   "question_page": 194,
+   "solution_page": 494,
+   "hints": [
+    476,
+    490,
+    507,
+    514,
+    523,
+    532,
+    541,
+    549,
+    576
+   ],
+   "solution_end": 498
+  },
+  "16.11": {
+   "title": "Diving Board",
+   "question_page": 194,
+   "solution_page": 498,
+   "hints": [
+    690,
+    700,
+    715,
+    722,
+    747
+   ],
+   "solution_end": 501
+  },
+  "16.12": {
+   "title": "XML Encoding",
+   "question_page": 194,
+   "solution_page": 501,
+   "hints": [
+    466
+   ],
+   "solution_end": 502
+  },
+  "16.13": {
+   "title": "Bisect Squares",
+   "question_page": 194,
+   "solution_page": 502,
+   "hints": [
+    468,
+    479,
+    528,
+    560
+   ],
+   "solution_end": 504
+  },
+  "16.14": {
+   "title": "Best Line",
+   "question_page": 195,
+   "solution_page": 504,
+   "hints": [
+    491,
+    520,
+    529,
+    563
+   ],
+   "solution_end": 506
+  },
+  "16.15": {
+   "title": "Master Mind",
+   "question_page": 195,
+   "solution_page": 506,
+   "hints": [
+    639,
+    730
+   ],
+   "solution_end": 508
+  },
+  "16.16": {
+   "title": "Sub Sort",
+   "question_page": 195,
+   "solution_page": 508,
+   "hints": [
+    482,
+    553,
+    667,
+    708,
+    735,
+    746
+   ],
+   "solution_end": 510
+  },
+  "16.17": {
+   "title": "Contiguous Sequence",
+   "question_page": 195,
+   "solution_page": 510,
+   "hints": [
+    531,
+    551,
+    567,
+    594,
+    614
+   ],
+   "solution_end": 511
+  },
+  "16.18": {
+   "title": "Pattern Matching",
+   "question_page": 195,
+   "solution_page": 511,
+   "hints": [
+    631,
+    643,
+    653,
+    663,
+    685,
+    718,
+    727
+   ],
+   "solution_end": 515
+  },
+  "16.19": {
+   "title": "Pond Sizes",
+   "question_page": 196,
+   "solution_page": 515,
+   "hints": [
+    674,
+    687,
+    706,
+    723
+   ],
+   "solution_end": 517
+  },
+  "16.20": {
+   "title": "T9",
+   "question_page": 196,
+   "solution_page": 517,
+   "hints": [
+    471,
+    487,
+    654,
+    703,
+    726,
+    744
+   ],
+   "solution_end": 521
+  },
+  "16.21": {
+   "title": "Sum Swap",
+   "question_page": 196,
+   "solution_page": 521,
+   "hints": [
+    545,
+    557,
+    564,
+    571,
+    583,
+    592,
+    602,
+    606,
+    635
+   ],
+   "solution_end": 524
+  },
+  "16.22": {
+   "title": "Langton's Ant",
+   "question_page": 197,
+   "solution_page": 524,
+   "hints": [
+    474,
+    481,
+    533,
+    540,
+    559,
+    570,
+    599,
+    616,
+    627
+   ],
+   "solution_end": 530
+  },
+  "16.23": {
+   "title": "Rand7 from Rand5",
+   "question_page": 197,
+   "solution_page": 530,
+   "hints": [
+    505,
+    574,
+    637,
+    668,
+    697,
+    720
+   ],
+   "solution_end": 532
+  },
+  "16.24": {
+   "title": "Pairs with Sum",
+   "question_page": 197,
+   "solution_page": 532,
+   "hints": [
+    548,
+    597,
+    644,
+    673
+   ],
+   "solution_end": 533
+  },
+  "16.25": {
+   "title": "LRU Cache",
+   "question_page": 197,
+   "solution_page": 533,
+   "hints": [
+    630
+   ],
+   "solution_end": 536
+  },
+  "16.26": {
+   "title": "Calculator",
+   "question_page": 197,
+   "solution_page": 536,
+   "hints": [
+    521,
+    624,
+    665,
+    698
+   ],
+   "solution_end": 542
+  },
+  "17.1": {
+   "title": "Add Without Plus",
+   "question_page": 198,
+   "solution_page": 542,
+   "hints": [
+    467,
+    544,
+    601,
+    628,
+    642,
+    664,
+    692,
+    712,
+    724
+   ],
+   "solution_end": 543
+  },
+  "17.2": {
+   "title": "Shuffle",
+   "question_page": 198,
+   "solution_page": 543,
+   "hints": [
+    483,
+    579,
+    634
+   ],
+   "solution_end": 544
+  },
+  "17.3": {
+   "title": "Random Set",
+   "question_page": 198,
+   "solution_page": 544,
+   "hints": [
+    494,
+    596
+   ],
+   "solution_end": 545
+  },
+  "17.4": {
+   "title": "Missing Number",
+   "question_page": 198,
+   "solution_page": 545,
+   "hints": [
+    610,
+    659,
+    683
+   ],
+   "solution_end": 548
+  },
+  "17.5": {
+   "title": "Letters and Numbers",
+   "question_page": 198,
+   "solution_page": 548,
+   "hints": [
+    485,
+    515,
+    619,
+    671,
+    713
+   ],
+   "solution_end": 550
+  },
+  "17.6": {
+   "title": "Count of 2s",
+   "question_page": 198,
+   "solution_page": 550,
+   "hints": [
+    573,
+    612,
+    641
+   ],
+   "solution_end": 553
+  },
+  "17.7": {
+   "title": "Baby Names",
+   "question_page": 199,
+   "solution_page": 553,
+   "hints": [
+    478,
+    493,
+    512,
+    537,
+    586,
+    605,
+    655,
+    675,
+    704
+   ],
+   "solution_end": 558
+  },
+  "17.8": {
+   "title": "Circus Tower",
+   "question_page": 199,
+   "solution_page": 558,
+   "hints": [
+    638,
+    657,
+    666,
+    682,
+    699
+   ],
+   "solution_end": 561
+  },
+  "17.9": {
+   "title": "Kth Multiple",
+   "question_page": 199,
+   "solution_page": 561,
+   "hints": [
+    488,
+    508,
+    550,
+    591,
+    622,
+    660,
+    686
+   ],
+   "solution_end": 566
+  },
+  "17.10": {
+   "title": "Majority Element",
+   "question_page": 199,
+   "solution_page": 566,
+   "hints": [
+    522,
+    566,
+    604,
+    620,
+    650
+   ],
+   "solution_end": 569
+  },
+  "17.11": {
+   "title": "Word Distance",
+   "question_page": 199,
+   "solution_page": 569,
+   "hints": [
+    486,
+    501,
+    538,
+    558,
+    633
+   ],
+   "solution_end": 572
+  },
+  "17.12": {
+   "title": "BiNode",
+   "question_page": 200,
+   "solution_page": 572,
+   "hints": [
+    509,
+    608,
+    646,
+    680,
+    701,
+    719
+   ],
+   "solution_end": 575
+  },
+  "17.13": {
+   "title": "Re-Space",
+   "question_page": 200,
+   "solution_page": 575,
+   "hints": [
+    496,
+    623,
+    656,
+    677,
+    739,
+    749
+   ],
+   "solution_end": 579
+  },
+  "17.14": {
+   "title": "Smallest K",
+   "question_page": 200,
+   "solution_page": 579,
+   "hints": [
+    470,
+    530,
+    552,
+    593,
+    625,
+    647,
+    661,
+    678
+   ],
+   "solution_end": 584
+  },
+  "17.15": {
+   "title": "Longest Word",
+   "question_page": 200,
+   "solution_page": 584,
+   "hints": [
+    475,
+    499,
+    543
+   ],
+   "solution_end": 586
+  },
+  "17.16": {
+   "title": "The Masseuse",
+   "question_page": 200,
+   "solution_page": 586,
+   "hints": [
+    495,
+    504,
+    516,
+    526,
+    542,
+    554,
+    562,
+    568,
+    578,
+    587,
+    607
+   ],
+   "solution_end": 590
+  },
+  "17.17": {
+   "title": "Multi Search",
+   "question_page": 201,
+   "solution_page": 590,
+   "hints": [
+    480,
+    582,
+    617,
+    743
+   ],
+   "solution_end": 596
+  },
+  "17.18": {
+   "title": "Shortest Supersequence",
+   "question_page": 201,
+   "solution_page": 596,
+   "hints": [
+    645,
+    652,
+    669,
+    681,
+    691,
+    725,
+    731,
+    741
+   ],
+   "solution_end": 603
+  },
+  "17.19": {
+   "title": "Missing Two",
+   "question_page": 201,
+   "solution_page": 603,
+   "hints": [
+    503,
+    590,
+    609,
+    626,
+    649,
+    672,
+    689,
+    696,
+    702,
+    717
+   ],
+   "solution_end": 607
+  },
+  "17.20": {
+   "title": "Continuous Median",
+   "question_page": 201,
+   "solution_page": 607,
+   "hints": [
+    519,
+    546,
+    575,
+    709
+   ],
+   "solution_end": 608
+  },
+  "17.21": {
+   "title": "Volume of Histogram",
+   "question_page": 201,
+   "solution_page": 608,
+   "hints": [
+    629,
+    640,
+    651,
+    658,
+    662,
+    676,
+    693,
+    734,
+    742
+   ],
+   "solution_end": 614
+  },
+  "17.22": {
+   "title": "Word Transformer",
+   "question_page": 201,
+   "solution_page": 614,
+   "hints": [
+    506,
+    535,
+    556,
+    580,
+    598,
+    618,
+    738
+   ],
+   "solution_end": 620
+  },
+  "17.23": {
+   "title": "Max Black Square",
+   "question_page": 202,
+   "solution_page": 620,
+   "hints": [
+    684,
+    695,
+    705,
+    714,
+    721,
+    736
+   ],
+   "solution_end": 623
+  },
+  "17.24": {
+   "title": "Max Submatrix",
+   "question_page": 202,
+   "solution_page": 623,
+   "hints": [
+    469,
+    511,
+    525,
+    539,
+    565,
+    581,
+    595,
+    615,
+    621
+   ],
+   "solution_end": 627
+  },
+  "17.25": {
+   "title": "Word Rectangle",
+   "question_page": 202,
+   "solution_page": 627,
+   "hints": [
+    477,
+    500,
+    748
+   ],
+   "solution_end": 632
+  },
+  "17.26": {
+   "title": "Sparse Similarity",
+   "question_page": 202,
+   "solution_page": 632,
+   "hints": [
+    484,
+    498,
+    510,
+    518,
+    534,
+    547,
+    555,
+    561,
+    569,
+    577,
+    584,
+    603,
+    611,
+    636
+   ],
+   "solution_end": 639
+  }
+ },
+ "hint_pages": {
+  "1": 665,
+  "84": 670,
+  "122": 672,
+  "2": 665,
+  "12": 665,
+  "38": 667,
+  "58": 668,
+  "3": 665,
+  "24": 666,
+  "4": 665,
+  "11": 665,
+  "18": 666,
+  "31": 667,
+  "37": 667,
+  "5": 665,
+  "13": 666,
+  "29": 666,
+  "61": 668,
+  "101": 671,
+  "6": 665,
+  "14": 666,
+  "52": 668,
+  "68": 669,
+  "77": 669,
+  "87": 670,
+  "94": 671,
+  "103": 671,
+  "108": 671,
+  "115": 672,
+  "7": 665,
+  "30": 666,
+  "71": 669,
+  "95": 671,
+  "8": 665,
+  "25": 666,
+  "41": 667,
+  "67": 669,
+  "126": 673,
+  "9": 665,
+  "40": 667,
+  "10": 665,
+  "16": 666,
+  "28": 666,
+  "36": 667,
+  "46": 667,
+  "70": 669,
+  "80": 670,
+  "96": 671,
+  "15": 666,
+  "32": 667,
+  "43": 667,
+  "17": 666,
+  "74": 669,
+  "102": 671,
+  "19": 666,
+  "73": 669,
+  "116": 672,
+  "20": 666,
+  "45": 667,
+  "55": 668,
+  "65": 669,
+  "76": 669,
+  "93": 670,
+  "111": 672,
+  "120": 672,
+  "129": 673,
+  "21": 666,
+  "33": 667,
+  "49": 668,
+  "105": 671,
+  "124": 673,
+  "22": 666,
+  "56": 668,
+  "63": 669,
+  "23": 666,
+  "97": 671,
+  "130": 673,
+  "26": 666,
+  "47": 668,
+  "60": 668,
+  "85": 670,
+  "125": 673,
+  "133": 673,
+  "27": 666,
+  "59": 668,
+  "78": 669,
+  "34": 667,
+  "88": 670,
+  "104": 671,
+  "35": 667,
+  "57": 668,
+  "86": 670,
+  "128": 673,
+  "39": 667,
+  "48": 668,
+  "66": 669,
+  "82": 670,
+  "42": 667,
+  "54": 668,
+  "62": 668,
+  "75": 669,
+  "89": 670,
+  "99": 671,
+  "112": 672,
+  "119": 672,
+  "44": 667,
+  "117": 672,
+  "132": 673,
+  "50": 668,
+  "69": 669,
+  "83": 670,
+  "90": 670,
+  "51": 668,
+  "100": 671,
+  "53": 668,
+  "118": 672,
+  "64": 669,
+  "81": 670,
+  "72": 669,
+  "79": 669,
+  "91": 670,
+  "92": 670,
+  "110": 672,
+  "98": 671,
+  "114": 672,
+  "106": 671,
+  "121": 672,
+  "134": 673,
+  "136": 673,
+  "107": 671,
+  "123": 672,
+  "135": 673,
+  "127": 673,
+  "137": 674,
+  "169": 675,
+  "215": 678,
+  "138": 674,
+  "174": 675,
+  "187": 676,
+  "209": 677,
+  "243": 679,
+  "265": 680,
+  "295": 682,
+  "139": 674,
+  "172": 675,
+  "264": 680,
+  "306": 682,
+  "140": 674,
+  "164": 675,
+  "220": 678,
+  "141": 674,
+  "216": 678,
+  "142": 674,
+  "158": 675,
+  "176": 676,
+  "189": 676,
+  "208": 677,
+  "223": 678,
+  "236": 679,
+  "244": 679,
+  "143": 674,
+  "167": 675,
+  "173": 675,
+  "269": 680,
+  "297": 682,
+  "144": 674,
+  "224": 678,
+  "250": 679,
+  "272": 680,
+  "318": 683,
+  "145": 674,
+  "248": 679,
+  "328": 683,
+  "355": 685,
+  "146": 674,
+  "163": 675,
+  "183": 676,
+  "191": 676,
+  "205": 677,
+  "221": 678,
+  "230": 678,
+  "241": 679,
+  "249": 679,
+  "147": 674,
+  "175": 675,
+  "242": 679,
+  "312": 682,
+  "339": 684,
+  "358": 685,
+  "375": 686,
+  "390": 686,
+  "148": 674,
+  "168": 675,
+  "197": 677,
+  "305": 682,
+  "327": 683,
+  "149": 674,
+  "379": 686,
+  "400": 687,
+  "150": 674,
+  "185": 676,
+  "200": 677,
+  "267": 680,
+  "278": 681,
+  "309": 682,
+  "335": 684,
+  "356": 685,
+  "151": 674,
+  "202": 677,
+  "261": 680,
+  "302": 682,
+  "346": 684,
+  "372": 686,
+  "383": 686,
+  "398": 687,
+  "152": 674,
+  "178": 676,
+  "217": 678,
+  "237": 679,
+  "262": 680,
+  "359": 685,
+  "153": 674,
+  "275": 680,
+  "154": 674,
+  "160": 675,
+  "171": 675,
+  "188": 676,
+  "201": 677,
+  "155": 674,
+  "194": 677,
+  "214": 677,
+  "260": 680,
+  "322": 683,
+  "368": 685,
+  "378": 686,
+  "156": 675,
+  "233": 678,
+  "294": 681,
+  "333": 684,
+  "357": 685,
+  "374": 686,
+  "395": 687,
+  "157": 675,
+  "195": 677,
+  "296": 682,
+  "159": 675,
+  "226": 678,
+  "314": 683,
+  "352": 685,
+  "161": 675,
+  "190": 676,
+  "222": 678,
+  "255": 680,
+  "162": 675,
+  "180": 676,
+  "199": 677,
+  "212": 677,
+  "247": 679,
+  "276": 681,
+  "165": 675,
+  "184": 676,
+  "206": 677,
+  "232": 678,
+  "166": 675,
+  "203": 677,
+  "227": 678,
+  "234": 679,
+  "246": 679,
+  "280": 681,
+  "170": 675,
+  "204": 677,
+  "240": 679,
+  "286": 681,
+  "340": 684,
+  "177": 676,
+  "182": 676,
+  "263": 680,
+  "342": 684,
+  "179": 676,
+  "228": 678,
+  "181": 676,
+  "239": 679,
+  "284": 681,
+  "323": 683,
+  "186": 676,
+  "252": 679,
+  "319": 683,
+  "387": 686,
+  "192": 676,
+  "238": 679,
+  "283": 681,
+  "193": 676,
+  "211": 677,
+  "229": 678,
+  "251": 679,
+  "266": 680,
+  "279": 681,
+  "288": 681,
+  "291": 681,
+  "303": 682,
+  "317": 683,
+  "330": 683,
+  "196": 677,
+  "219": 678,
+  "231": 678,
+  "253": 679,
+  "277": 681,
+  "292": 681,
+  "316": 683,
+  "198": 677,
+  "207": 677,
+  "210": 677,
+  "225": 678,
+  "268": 680,
+  "349": 684,
+  "393": 687,
+  "213": 677,
+  "245": 679,
+  "271": 680,
+  "218": 678,
+  "282": 681,
+  "341": 684,
+  "370": 685,
+  "235": 679,
+  "254": 680,
+  "281": 681,
+  "256": 680,
+  "257": 680,
+  "299": 682,
+  "362": 685,
+  "258": 680,
+  "259": 680,
+  "274": 680,
+  "293": 681,
+  "311": 682,
+  "270": 680,
+  "285": 681,
+  "304": 682,
+  "321": 683,
+  "273": 680,
+  "290": 681,
+  "338": 684,
+  "354": 685,
+  "373": 686,
+  "287": 681,
+  "307": 682,
+  "289": 681,
+  "315": 683,
+  "298": 682,
+  "310": 682,
+  "300": 682,
+  "324": 683,
+  "343": 684,
+  "380": 686,
+  "394": 687,
+  "301": 682,
+  "376": 686,
+  "392": 686,
+  "308": 682,
+  "350": 684,
+  "371": 685,
+  "313": 682,
+  "345": 684,
+  "320": 683,
+  "337": 684,
+  "348": 684,
+  "325": 683,
+  "326": 683,
+  "347": 684,
+  "329": 683,
+  "401": 687,
+  "331": 683,
+  "360": 685,
+  "388": 686,
+  "332": 683,
+  "334": 684,
+  "353": 685,
+  "365": 685,
+  "336": 684,
+  "369": 685,
+  "344": 684,
+  "351": 685,
+  "361": 685,
+  "377": 686,
+  "386": 686,
+  "399": 687,
+  "363": 685,
+  "364": 685,
+  "382": 686,
+  "366": 685,
+  "381": 686,
+  "384": 686,
+  "391": 686,
+  "367": 685,
+  "397": 687,
+  "385": 686,
+  "396": 687,
+  "389": 686,
+  "402": 688,
+  "438": 689,
+  "453": 690,
+  "403": 688,
+  "407": 688,
+  "415": 688,
+  "441": 689,
+  "404": 688,
+  "405": 688,
+  "406": 688,
+  "418": 688,
+  "426": 689,
+  "408": 688,
+  "409": 688,
+  "410": 688,
+  "452": 690,
+  "411": 688,
+  "412": 688,
+  "413": 688,
+  "432": 689,
+  "440": 689,
+  "414": 688,
+  "439": 689,
+  "447": 690,
+  "458": 690,
+  "416": 688,
+  "425": 689,
+  "417": 688,
+  "433": 689,
+  "446": 690,
+  "419": 688,
+  "437": 689,
+  "420": 689,
+  "424": 689,
+  "430": 689,
+  "454": 690,
+  "421": 689,
+  "460": 690,
+  "422": 689,
+  "434": 689,
+  "423": 689,
+  "427": 689,
+  "462": 690,
+  "428": 689,
+  "442": 689,
+  "429": 689,
+  "431": 689,
+  "435": 689,
+  "436": 689,
+  "443": 690,
+  "450": 690,
+  "457": 690,
+  "444": 690,
+  "455": 690,
+  "445": 690,
+  "448": 690,
+  "461": 690,
+  "464": 690,
+  "449": 690,
+  "459": 690,
+  "451": 690,
+  "456": 690,
+  "463": 690,
+  "465": 691,
+  "472": 691,
+  "497": 692,
+  "517": 693,
+  "527": 694,
+  "466": 691,
+  "467": 691,
+  "544": 695,
+  "601": 698,
+  "628": 700,
+  "642": 701,
+  "664": 702,
+  "692": 704,
+  "712": 705,
+  "724": 706,
+  "468": 691,
+  "479": 691,
+  "528": 694,
+  "560": 696,
+  "469": 691,
+  "511": 693,
+  "525": 694,
+  "539": 694,
+  "565": 696,
+  "581": 697,
+  "595": 698,
+  "615": 699,
+  "621": 700,
+  "470": 691,
+  "530": 694,
+  "552": 695,
+  "593": 698,
+  "625": 700,
+  "647": 701,
+  "661": 702,
+  "678": 703,
+  "471": 691,
+  "487": 692,
+  "654": 702,
+  "703": 705,
+  "726": 706,
+  "744": 707,
+  "473": 691,
+  "513": 693,
+  "707": 705,
+  "728": 706,
+  "474": 691,
+  "481": 691,
+  "533": 694,
+  "540": 694,
+  "559": 696,
+  "570": 697,
+  "599": 698,
+  "616": 699,
+  "627": 700,
+  "475": 691,
+  "499": 692,
+  "543": 695,
+  "476": 691,
+  "490": 692,
+  "507": 693,
+  "514": 693,
+  "523": 694,
+  "532": 694,
+  "541": 694,
+  "549": 695,
+  "576": 697,
+  "477": 691,
+  "500": 692,
+  "748": 707,
+  "478": 691,
+  "493": 692,
+  "512": 693,
+  "537": 694,
+  "586": 698,
+  "605": 699,
+  "655": 702,
+  "675": 703,
+  "704": 705,
+  "480": 691,
+  "582": 697,
+  "617": 700,
+  "743": 707,
+  "482": 691,
+  "553": 695,
+  "667": 703,
+  "708": 705,
+  "735": 706,
+  "746": 707,
+  "483": 691,
+  "579": 697,
+  "634": 700,
+  "484": 692,
+  "498": 692,
+  "510": 693,
+  "518": 693,
+  "534": 694,
+  "547": 695,
+  "555": 695,
+  "561": 696,
+  "569": 697,
+  "577": 697,
+  "584": 697,
+  "603": 699,
+  "611": 699,
+  "636": 701,
+  "485": 692,
+  "515": 693,
+  "619": 700,
+  "671": 703,
+  "713": 705,
+  "486": 692,
+  "501": 692,
+  "538": 694,
+  "558": 696,
+  "633": 700,
+  "488": 692,
+  "508": 693,
+  "550": 695,
+  "591": 698,
+  "622": 700,
+  "660": 702,
+  "686": 704,
+  "489": 692,
+  "536": 694,
+  "491": 692,
+  "520": 693,
+  "529": 694,
+  "563": 696,
+  "492": 692,
+  "716": 705,
+  "737": 706,
+  "494": 692,
+  "596": 698,
+  "495": 692,
+  "504": 693,
+  "516": 693,
+  "526": 694,
+  "542": 695,
+  "554": 695,
+  "562": 696,
+  "568": 697,
+  "578": 697,
+  "587": 698,
+  "607": 699,
+  "496": 692,
+  "623": 700,
+  "656": 702,
+  "677": 703,
+  "739": 706,
+  "749": 707,
+  "502": 692,
+  "588": 698,
+  "688": 704,
+  "503": 692,
+  "590": 698,
+  "609": 699,
+  "626": 700,
+  "649": 701,
+  "672": 703,
+  "689": 704,
+  "696": 704,
+  "702": 705,
+  "717": 705,
+  "505": 693,
+  "574": 697,
+  "637": 701,
+  "668": 703,
+  "697": 704,
+  "720": 706,
+  "506": 693,
+  "535": 694,
+  "556": 696,
+  "580": 697,
+  "598": 698,
+  "618": 700,
+  "738": 706,
+  "509": 693,
+  "608": 699,
+  "646": 701,
+  "680": 703,
+  "701": 705,
+  "719": 705,
+  "519": 693,
+  "546": 695,
+  "575": 697,
+  "709": 705,
+  "521": 693,
+  "624": 700,
+  "665": 702,
+  "698": 704,
+  "522": 693,
+  "566": 696,
+  "604": 699,
+  "620": 700,
+  "650": 701,
+  "531": 694,
+  "551": 695,
+  "567": 696,
+  "594": 698,
+  "614": 699,
+  "545": 695,
+  "557": 696,
+  "564": 696,
+  "571": 697,
+  "583": 697,
+  "592": 698,
+  "602": 699,
+  "606": 699,
+  "635": 700,
+  "548": 695,
+  "597": 698,
+  "644": 701,
+  "673": 703,
+  "572": 697,
+  "600": 698,
+  "613": 699,
+  "648": 701,
+  "573": 697,
+  "612": 699,
+  "641": 701,
+  "585": 697,
+  "711": 705,
+  "729": 706,
+  "733": 706,
+  "745": 707,
+  "610": 699,
+  "659": 702,
+  "683": 704,
+  "629": 700,
+  "640": 701,
+  "651": 702,
+  "658": 702,
+  "662": 702,
+  "676": 703,
+  "693": 704,
+  "734": 706,
+  "742": 707,
+  "630": 700,
+  "631": 700,
+  "643": 701,
+  "653": 702,
+  "663": 702,
+  "685": 704,
+  "718": 705,
+  "727": 706,
+  "632": 700,
+  "670": 703,
+  "679": 703,
+  "638": 701,
+  "657": 702,
+  "666": 702,
+  "682": 704,
+  "699": 704,
+  "639": 701,
+  "730": 706,
+  "645": 701,
+  "652": 702,
+  "669": 703,
+  "681": 703,
+  "691": 704,
+  "725": 706,
+  "731": 706,
+  "741": 707,
+  "674": 703,
+  "687": 704,
+  "706": 705,
+  "723": 706,
+  "684": 704,
+  "695": 704,
+  "705": 705,
+  "714": 705,
+  "721": 706,
+  "736": 706,
+  "690": 704,
+  "700": 704,
+  "715": 705,
+  "722": 706,
+  "747": 707,
+  "710": 705,
+  "732": 706
+ },
+ "sections": {
+  "interview-process": [
+   16,
+   49
+  ],
+  "big-o": [
+   50,
+   71
+  ],
+  "technical-questions": [
+   72,
+   93
+  ],
+  "offer-and-beyond": [
+   94,
+   98
+  ],
+  "ch1": [
+   100,
+   103
+  ],
+  "ch2": [
+   104,
+   107
+  ],
+  "ch3": [
+   108,
+   111
+  ],
+  "ch4": [
+   112,
+   123
+  ],
+  "ch5": [
+   124,
+   128
+  ],
+  "ch6": [
+   129,
+   136
+  ],
+  "ch7": [
+   137,
+   141
+  ],
+  "ch8": [
+   142,
+   148
+  ],
+  "ch9": [
+   149,
+   157
+  ],
+  "ch10": [
+   158,
+   163
+  ],
+  "ch11": [
+   164,
+   169
+  ],
+  "ch12": [
+   170,
+   176
+  ],
+  "ch13": [
+   177,
+   180
+  ],
+  "ch14": [
+   181,
+   185
+  ],
+  "ch15": [
+   186,
+   192
+  ],
+  "ch16": [
+   193,
+   197
+  ],
+  "ch17": [
+   198,
+   202
+  ],
+  "advanced-math": [
+   641,
+   644
+  ],
+  "topological-sort": [
+   644,
+   645
+  ],
+  "dijkstra": [
+   645,
+   647
+  ],
+  "hash-collisions": [
+   648,
+   648
+  ],
+  "rabin-karp": [
+   648,
+   649
+  ],
+  "avl-trees": [
+   649,
+   651
+  ],
+  "red-black-trees": [
+   651,
+   654
+  ],
+  "mapreduce": [
+   654,
+   656
+  ],
+  "code-library": [
+   657,
+   663
+  ],
+  "hints": [
+   664,
+   708
+  ]
+ }
+}
